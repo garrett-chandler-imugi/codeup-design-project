@@ -8,27 +8,95 @@ body {
     background-color: #F0F0F0;
 }
 .circle1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     height: 210px;
     width: 210px;
     background: #E6563B;
     border: 5px solid white;
+    text-align: center;
+
+
 }
 .circle2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     height: 210px;
     width: 210px;
     background: #EB9D3A;
     border: 5px solid white;
+    text-align: center;
+
 }
 .circle3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     height: 210px;
     width: 210px;
     background: #7CB06C;
     border: 5px solid white;
+    text-align: center;
+
 }
 .circle4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     height: 210px;
     width: 210px;
     background: #00ABA9;
     border: 5px solid white;
+    text-align: center;
 }
+
+.navbar-brand>img {
+    width: 105px;
+    height: 105px;
+}
+
+.bodyImg {
+    border: 8px solid #E6E6E6;
+}
+
+.smallCircle1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 18px;
+    height: 18px;
+    background: #E6563B;
+
+}
+.smallCircle2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 18px;
+    height: 18px;
+    background: #EB9D3A;
+
+}
+.smallCircle3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 18px;
+    height: 18px;
+    background: #7CB06C;
+
+}
+.smallCircle4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 18px;
+    height: 18px;
+    background: #00ABA9;
+
+}
+
+
 
