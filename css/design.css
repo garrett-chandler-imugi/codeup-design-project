@@ -1,0 +1,34 @@
+/** {*/
+/*   background-color: #F0F0F0;*/
+/*}*/
+body {
+    font-family: Anton Regular, sans-serif;
+    font-size: xx-large;
+    box-sizing: border-box;
+    background-color: #F0F0F0;
+}
+.circle1 {
+    height: 210px;
+    width: 210px;
+    background: #E6563B;
+    border: 5px solid white;
+}
+.circle2 {
+    height: 210px;
+    width: 210px;
+    background: #EB9D3A;
+    border: 5px solid white;
+}
+.circle3 {
+    height: 210px;
+    width: 210px;
+    background: #7CB06C;
+    border: 5px solid white;
+}
+.circle4 {
+    height: 210px;
+    width: 210px;
+    background: #00ABA9;
+    border: 5px solid white;
+}
+
