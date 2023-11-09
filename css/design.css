@@ -24,8 +24,8 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     background: #E6563B;
     border: 10px solid white;
     text-align: center;
@@ -37,8 +37,8 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     background: #EB9D3A;
     border: 10px solid white;
     text-align: center;
@@ -49,8 +49,8 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     background: #7CB06C;
     border: 10px solid white;
     text-align: center;
@@ -61,8 +61,8 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     background: #00ABA9;
     border: 10px solid white;
     text-align: center;
@@ -154,6 +154,9 @@ h5 {
 p {
     font-family: 'abel', sans-serif;
 }
+
+
+
 
 
 
