@@ -159,6 +159,11 @@ p {
     object-fit: cover;
 }
 
+/*@media screen and (max-width: 991px) {*/
+/*    .mainrow {*/
+/*        width: 100%;*/
+/*    }*/
+/*}*/
 
 
 
